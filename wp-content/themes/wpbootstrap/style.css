@@ -136,6 +136,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
   
   
   /* Pagination */
+  
   .pager {
     margin-bottom: 60px;
     text-align: left;
@@ -151,14 +152,15 @@ Use it to make something cool, have fun, and share what you've learned with othe
   /*
    * Blog posts
    */
-  
   .blog-post {
     margin-bottom: 60px;
   }
+
   .blog-post-title {
     margin-bottom: 5px;
     font-size: 40px;
   }
+
   .blog-post-meta {
     margin-bottom: 20px;
     color: #999;
@@ -168,7 +170,6 @@ Use it to make something cool, have fun, and share what you've learned with othe
   /*
    * Footer
    */
-  
   .blog-footer {
     padding: 40px 0;
     color: #999;
